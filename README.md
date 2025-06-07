@@ -15,6 +15,9 @@ This repository contains various Python-based analytics projects, including:
 - **Modular Python Scripts** – Reusable scripts for data processing and visualization.
 
 ## 📊 Sample Notebooks
+
+### E-Commerce Sales Analytics
+[Click on Link](https://github.com/WajahatSiddique254/Pythont_Treasury/blob/main/E-Commerce%20Sales%20Analytics%20Projects/1_Project%20Description.md)
 ### Customer Segmentation Analysis
 ![Customer Segmentation](images/customer_segmentation.png)
 
