@@ -24,6 +24,7 @@ The goal is to analyze historical sales data to identify trends, uncover pattern
 5. Sales-to-Profit Ratio  
 6. Top Buyers by Sales and Quantity  
 
+
 ## 🖼️ Visual Snapshots 
 ![Image](https://github.com/user-attachments/assets/7844f92b-1702-4e87-a282-68a25115a2bb)
 
